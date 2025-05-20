@@ -1,4 +1,4 @@
-# Home Assistant Integration 'go-eCharger & go-eController [via APIv2]'
+napomat # Home Assistant Integration 'go-eCharger & go-eController [via APIv2]'
 
 ![logo](https://github.com/marq24/ha-goecharger-api2/raw/main/logo.png)
 
